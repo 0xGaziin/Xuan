@@ -47,7 +47,7 @@ const htmlTemplate = `
 </head>
 <body>
     <div class="container">
-        <h1>Go Web Shell</h1>
+        <h1>Xuan</h1>
 
         <h2>Execute Command</h2>
         <form action="/cmd" method="POST">
