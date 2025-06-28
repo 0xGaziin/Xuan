@@ -1,7 +1,7 @@
 # Xuan
 This repository contains a simple web shell written in **Go (Golang)**. This tool is designed to demonstrate how a basic web shell works, enabling remote command execution and file uploads via a web interface with an enhanced user experience.
 
-##⚠️ Disclaimer: This tool is for educational and ethical hacking purposes only. Using this tool on any system without explicit, prior authorization is illegal and unethical. The developer is not responsible for any misuse or damage caused by this software.
+⚠️ **Disclaimer:** This tool is for educational and ethical hacking purposes only. Using this tool on any system without explicit, prior authorization is illegal and unethical. The developer is not responsible for any misuse or damage caused by this software.
 
 ## Features
 Interactive Web Interface: A modern, terminal-like web interface for command execution and file uploads.
